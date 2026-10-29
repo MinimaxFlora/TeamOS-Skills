@@ -1,0 +1,7 @@
+interface:
+  display_name: "公文写作与降 AI 味"
+  short_description: "生成、改写并校核规范、克制、低 AI 痕迹的中文公文"
+  default_prompt: "使用 $official-document-skill 根据我提供的事实起草一份文种准确、格式规范、表达克制且低 AI 痕迹的中文公文。"
+
+policy:
+  allow_implicit_invocation: true

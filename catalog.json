@@ -1,0 +1,229 @@
+{
+  "name": "TeamOS-Skills",
+  "updated": "2026-10-29",
+  "total": 20,
+  "categories": [
+    {
+      "id": "office-efficiency",
+      "name": "办公效率",
+      "path": "skills/office-efficiency",
+      "count": 10,
+      "skills": [
+        {
+          "id": "666-v2",
+          "name": "ppt-generator",
+          "version": "",
+          "description": "生成专业PPT演示文稿。当用户要求创建PPT、幻灯片、演示文稿时使用。适用于工作汇报、项目展示、商业计划、培训课件等场景。",
+          "path": "skills/office-efficiency/666-v2"
+        },
+        {
+          "id": "ai-ppt-skill",
+          "name": "ppt-master",
+          "version": "3.0.0",
+          "description": "专业PPT生成技能，支持20种图表类型、8大类别温和色系、5阶段交互工作流，生成可直接编辑的.pptx文件",
+          "path": "skills/office-efficiency/ai-ppt-skill"
+        },
+        {
+          "id": "excel-auto-zh",
+          "name": "excel-auto-zh",
+          "version": "",
+          "description": "Excel / WPS 表格自动化处理工具。用 openpyxl 创建格式专业的报表、解析含宏的复杂 xlsm 文件、批量合并多工作表数据。适用于财务报表生成、考勤汇总、销售数据整理、人力资源 批量处理等场景。解决\"Excel重复操作太耗时\"、\"WPS自动化\"、\"批量处理表格\"、 \"xlsm文件解析\"等问题。兼容 Windows / macOS，WPS Office 与 Microsoft Exc",
+          "path": "skills/office-efficiency/excel-auto-zh"
+        },
+        {
+          "id": "gongwenformat-pro",
+          "name": "gongwenformat-pro",
+          "version": "",
+          "description": "党政机关公文标准排版Pro版(GB/T 9704-2012)。将Markdown/TXT/DOCX文本转换为符合国标排版的Word文档。当用户提到以下任何关键词或场景时必须使用此技能:公文排版、标准格式、Word文件、排版、写成Word、生成docx、发文格式、材料排版、红头文件、正式文件、排版成Word、帮我排个版、公文格式、公文、政府文件、机关公文、通知格式、请示格式、报告格式、函的格式、会议",
+          "path": "skills/office-efficiency/gongwenformat-pro"
+        },
+        {
+          "id": "moways-doc",
+          "name": "moways-docx",
+          "version": "2.7.4",
+          "description": "一键规范 Word 报告排版：页面设置、字体字号、标题层级、行距段距、页码页眉、 目录、三线表、图表标题、封面附件、署名日期，全部自动刷成标准格式。 独家修复 AI 写作中最隐蔽的\"半角冒充全角\"标点问题（半角逗号、直引号、半角括号、 连字符冒充破折号、三个英文点冒充省略号），严格执行中文标点国标 GB/T 15834-2011。 三种模式：自动排版（一键刷格式+标点）、排版审查（只出问题清单不改",
+          "path": "skills/office-efficiency/moways-doc"
+        },
+        {
+          "id": "office-automation-pro",
+          "name": "office-automation",
+          "version": "1.0.0",
+          "description": "常见办公流程自动化处理 - 智能办公助手，支持文档处理、数据整理、邮件管理、日程安排、报表生成等",
+          "path": "skills/office-efficiency/office-automation-pro"
+        },
+        {
+          "id": "official-document-skill",
+          "name": "official-document-skill",
+          "version": "",
+          "description": "Draft, revise, polish, humanize, and quality-check Chinese official documents and government-style practical writing (公文、党政机关公文、事务文书、申论应用文、人民日报风格政务表达), producing deliverable drafts with correct docume",
+          "path": "skills/office-efficiency/official-document-skill"
+        },
+        {
+          "id": "ppt-generator-skill",
+          "name": "ppt-generator",
+          "version": "",
+          "description": "智能 PPT 生成助手。根据用户描述的主题、行业、风格，自动生成漂亮的 PPT 文件。支持所有行业（商务、教育、科技、医疗、金融、创意等），支持中英文双语，支持用户提供的模板或 AI 自动配色。触发词：做PPT、生成PPT、制作幻灯片、make ppt、create presentation、帮我做个PPT。",
+          "path": "skills/office-efficiency/ppt-generator-skill"
+        },
+        {
+          "id": "ppt-win32com-editor",
+          "name": "ppt-win32com-editor",
+          "version": "",
+          "description": "使用 win32com（PowerPoint COM 接口）就地修改已有 .pptx 文件，保留所有原始布局、图片、形状、渐变背景和特效。当用户要求\"修改/美化/调整/优化 PPT 文件\"、\"更改字体/颜色/段落间距\"、\"在原文件基础上编辑 PowerPoint\"时使用。注意：新建 PPT 请使用 pptx-generator skill；本 skill 专用于已有 PPT 的就地修改，不重建文件",
+          "path": "skills/office-efficiency/ppt-win32com-editor"
+        },
+        {
+          "id": "wps-office-suite",
+          "name": "wps-office-suite",
+          "version": "5.3.5",
+          "description": "WPS Office 全家桶 - 四引擎（WPS/MS Office/LibreOffice/纯Python）智能识别用户已安装软件，纯Python模式支持排序/筛选/图表/公式/统计，含文档模板（代码生成）、最佳实践案例、故障排除大章（20+避坑+15 FAQ+15错误ID 统一索引）、自动重试、硬件自适应、环境自检、Skill更新提醒；v5.1新增：kingdoc云端桥接（白名单探测+配置预检",
+          "path": "skills/office-efficiency/wps-office-suite"
+        }
+      ]
+    },
+    {
+      "id": "content-creation",
+      "name": "内容创作",
+      "path": "skills/content-creation",
+      "count": 4,
+      "skills": [
+        {
+          "id": "douyin-copy-extract",
+          "name": "douyin_copy_extract",
+          "version": "1.0.0",
+          "description": "粘贴抖音、快手、小红书、视频号公开可访问的短视频分享链接，一键提取标题、简介、口播文案，提供原版、优化朗读版、精简浓缩版，并支持违禁敏感词提醒与口播时长参考，排版整洁纯净，一键复制即用。",
+          "path": "skills/content-creation/douyin-copy-extract"
+        },
+        {
+          "id": "humanize-ai-text",
+          "name": "humanize-ai-text",
+          "version": "",
+          "description": "论文改写与降AI率工具：对论文、期刊稿做去AI味改写、学术改写、段落改写与风格自然化—— AI 味自查报告、模型残留清理、深改指引与句级优先级计划，全程守住数字、DOI、PMID、年份与 术语（改文不改动数据）。check_stats 查数字打架，check_terms 查术语混用（八域变体组）； 支持中英双语与 .docx/.pdf 输入，--batch 支持分章跨文件核对。 适合行文生硬、模板",
+          "path": "skills/content-creation/humanize-ai-text"
+        },
+        {
+          "id": "libai",
+          "name": "libai-skill",
+          "version": "2.2.0",
+          "description": "李白.Skill:润色专家 检测并消除中文文本中的AI生成痕迹，将生硬的机器输出转化为自然流畅的人类文笔。融合规则检测、分层改写和质控流水线，确保最终文本通过人工审查。",
+          "path": "skills/content-creation/libai"
+        },
+        {
+          "id": "unclecheng-reduce-ai-perception-v2",
+          "name": "humanizer",
+          "version": "4.1.0",
+          "description": "去除文本中的AI写作痕迹，让文字读起来更像人类写作。当用户要求'去AI味'、'降AI味'、'让回复更像人话'、'润色'、'改写得更自然'时使用。检测并修复：AI高频词汇、过度结构化、虚假客观性、机械化连接词、完美主义陷阱、公式化结尾、过度修饰、情感缺失、'不是而是'假靶子/同义替换、莫名其妙的比喻、高频堆叠副词等问题。",
+          "path": "skills/content-creation/unclecheng-reduce-ai-perception-v2"
+        }
+      ]
+    },
+    {
+      "id": "development",
+      "name": "开发编程",
+      "path": "skills/development",
+      "count": 2,
+      "skills": [
+        {
+          "id": "contextweave-interactive-architecture",
+          "name": "interactive-architecture-diagram",
+          "version": "1.7.2",
+          "description": "使用 ContextWeave 生成或修改架构图、流程图、思维导图和复杂信息图。适用于需要从代码、文件或自然语言中提取结构与关系并实际产出 CW、SVG、HTML、可编辑 PPTX 或原生 VSDX 的请求；未特别说明时，PPTX 与 Visio 使用原生形状和连接器导出。不适用于统计图表、手绘插画或像素级排版。",
+          "path": "skills/development/contextweave-interactive-architecture"
+        },
+        {
+          "id": "dev-god",
+          "name": "dev-god",
+          "version": "",
+          "description": "编程大神：面向复杂真实项目的高阶全栈编程助手。不止生成代码，而是从一句目标接手陌生代码库，拆解需求、补齐实现、追到根因、完成重构、联调前后端，并把结果推进到能运行、能验证、能交付。覆盖 Web、后端、脚本、鸿蒙 ArkUI、微信小程序及其他技术栈，支持中英文工程、疑难 Bug、跨模块任务和长任务续做；用构建、日志、真实入口、设备或接口证据说明结果。仅问概念时直接回答，要求落地时持续推进到验收或明确",
+          "path": "skills/development/dev-god"
+        }
+      ]
+    },
+    {
+      "id": "data-analysis",
+      "name": "数据分析",
+      "path": "skills/data-analysis",
+      "count": 1,
+      "skills": [
+        {
+          "id": "cnfinancialscraper",
+          "name": "cn-financial-scraper",
+          "version": "12.0.0",
+          "description": "中国金融机构数据爬取与分析综合 Skill v12.0.0。2334家/43大类机构名单、60+财经媒体源舆情、 A股报告/公告/研报、60+种查询多源金融数据（自动降级+缓存）、爬取调度与网页操作增强、 实时数据中枢、24 技术指标引擎、多源证据融合、110 MCP 工具 + 10 Resource + 14 Prompt。 🆕 v12.0.0 四条线（信息获取 / 打包下载 / 数据分析 / ",
+          "path": "skills/data-analysis/cnfinancialscraper"
+        }
+      ]
+    },
+    {
+      "id": "design-media",
+      "name": "设计多媒体",
+      "path": "skills/design-media",
+      "count": 3,
+      "skills": [
+        {
+          "id": "poster-design-studio",
+          "name": "poster-design-studio",
+          "version": "",
+          "description": "将一段活动描述、一张产品照片或品牌参考图，转化为抓人眼球的活动海报、宣传 banner 或社交媒体配图。这款 AI海报设计与制作工具生成图片丰富的海报，在海报排版上搭配清晰视觉层级、按品类匹配的风格和预留文字区域，覆盖活动、音乐节、电影、产品发布和促销场景。你可以把它当作 AI宣传单制作工具来制作促销宣传单，当作活动海报设计工具，当作电影海报生成器，当作音乐节海报设计工具，当作产品发布会海报的 b",
+          "path": "skills/design-media/poster-design-studio"
+        },
+        {
+          "id": "ppt-craft-master",
+          "name": "ppt-craft-master",
+          "version": "1.0.0",
+          "description": "PPT生成助手。不止\"做 PPT\"，而是以\"内容策略 + 视觉设计 + 叙事导演\"三位一体，产出有观点、有数据、有金句、排版精致、绝不溢出的演示文稿。内置页数→结构骨架、风格选择矩阵、设计令牌系统、28 种带图示版式库、金句弹药库、图文资产规范、动效纪律与 10 维终审评分卡。覆盖商务/教育/科技/医疗/金融/创意/政府等全行业，中英双语，支持模板或 AI 自动配色。触发词：做PPT、生成PPT、",
+          "path": "skills/design-media/ppt-craft-master"
+        },
+        {
+          "id": "slides-maker",
+          "name": "slide-maker",
+          "version": "",
+          "description": "Build, redesign, and critique clean, presentation-grade slide decks (.pptx) for any audience — research/lab meetings, work status updates, conference talks, stakeholder readouts, thesis defenses, teac",
+          "path": "skills/design-media/slides-maker"
+        }
+      ]
+    },
+    {
+      "id": "ai-agent",
+      "name": "AI Agent",
+      "path": "skills/ai-agent",
+      "count": 0,
+      "skills": []
+    },
+    {
+      "id": "knowledge-management",
+      "name": "知识管理",
+      "path": "skills/knowledge-management",
+      "count": 0,
+      "skills": []
+    },
+    {
+      "id": "business-operations",
+      "name": "商业运营",
+      "path": "skills/business-operations",
+      "count": 0,
+      "skills": []
+    },
+    {
+      "id": "education",
+      "name": "教育学习",
+      "path": "skills/education",
+      "count": 0,
+      "skills": []
+    },
+    {
+      "id": "industry-experts",
+      "name": "行业专家",
+      "path": "skills/industry-experts",
+      "count": 0,
+      "skills": []
+    },
+    {
+      "id": "life-services",
+      "name": "生活服务",
+      "path": "skills/life-services",
+      "count": 0,
+      "skills": []
+    }
+  ]
+}
