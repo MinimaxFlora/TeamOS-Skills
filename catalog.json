@@ -184,13 +184,6 @@
       ]
     },
     {
-      "id": "ai-agent",
-      "name": "AI Agent",
-      "path": "skills/ai-agent",
-      "count": 0,
-      "skills": []
-    },
-    {
       "id": "knowledge-management",
       "name": "知识管理",
       "path": "skills/knowledge-management",
