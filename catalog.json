@@ -184,13 +184,6 @@
       ]
     },
     {
-      "id": "knowledge-management",
-      "name": "知识管理",
-      "path": "skills/knowledge-management",
-      "count": 0,
-      "skills": []
-    },
-    {
       "id": "business-operations",
       "name": "商业运营",
       "path": "skills/business-operations",

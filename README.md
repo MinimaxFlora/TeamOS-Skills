@@ -1,9 +1,9 @@
 # TeamOS Skills
 
-团队自用的 AI Agent 技能仓库。每个技能一个独立目录、一份 `SKILL.md`，按 10 个业务场景分类，可直接被 TeamOS / Hermes Agent / Claude Code / Codex 等支持 Agent Skills 的运行环境加载。
+团队自用的 AI Agent 技能仓库。每个技能一个独立目录、一份 `SKILL.md`，按 9 个业务场景分类，可直接被 TeamOS / Hermes Agent / Claude Code / Codex 等支持 Agent Skills 的运行环境加载。
 
 - 技能总数：**20**
-- 分类数：**10**（其中 5 个分类待补充）
+- 分类数：**9**（其中 4 个分类待补充）
 - 最近更新：2026-10-29
 
 ## 分类一览
@@ -15,11 +15,10 @@
 | 03 | 开发编程 | [`skills/development`](skills/development) | 2 |
 | 04 | 数据分析 | [`skills/data-analysis`](skills/data-analysis) | 1 |
 | 05 | 设计多媒体 | [`skills/design-media`](skills/design-media) | 3 |
-| 06 | 知识管理 | [`skills/knowledge-management`](skills/knowledge-management) | 0 |
-| 07 | 商业运营 | [`skills/business-operations`](skills/business-operations) | 0 |
-| 08 | 教育学习 | [`skills/education`](skills/education) | 0 |
-| 09 | 行业专家 | [`skills/industry-experts`](skills/industry-experts) | 0 |
-| 10 | 生活服务 | [`skills/life-services`](skills/life-services) | 0 |
+| 06 | 商业运营 | [`skills/business-operations`](skills/business-operations) | 0 |
+| 07 | 教育学习 | [`skills/education`](skills/education) | 0 |
+| 08 | 行业专家 | [`skills/industry-experts`](skills/industry-experts) | 0 |
+| 09 | 生活服务 | [`skills/life-services`](skills/life-services) | 0 |
 
 ## 技能清单
 

@@ -25,7 +25,6 @@ CATEGORIES = [
     ("development", "开发编程"),
     ("data-analysis", "数据分析"),
     ("design-media", "设计多媒体"),
-    ("knowledge-management", "知识管理"),
     ("business-operations", "商业运营"),
     ("education", "教育学习"),
     ("industry-experts", "行业专家"),
